@@ -33,7 +33,7 @@ requests==2.20.0
 simple-tensorflow-serving==0.6.5
 six==1.11.0
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==2.9.3
 termcolor==1.1.0
 urllib3==1.24
 Werkzeug==0.14.1
